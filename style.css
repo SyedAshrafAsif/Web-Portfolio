@@ -1,0 +1,17 @@
+h1{
+    font-size: 40px;
+    font-family: 'Holtwood One SC', serif;
+}
+.name-highlight{
+    color: darkcyan;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+    padding-top: 3%;
+}
